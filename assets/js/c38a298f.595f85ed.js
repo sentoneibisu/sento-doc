@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksento_doc=self.webpackChunksento_doc||[]).push([[925],{1934:function(o){o.exports=JSON.parse('{"allTagsPath":"/sento-doc/blog/tags","slug":"/sento-doc/blog/tags/hola","name":"hola","count":1,"permalink":"/sento-doc/blog/tags/hola"}')}}]);
